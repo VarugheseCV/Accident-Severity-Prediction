@@ -4,7 +4,7 @@ The project predicts the severity of a road accident by data mining files availa
 
 The project is divided into two parts:
 
-### Preprocessing Stage:
+## Preprocessing Stage:
 
 A business objective is set and a number of pre-processing steps (data transformation, data cleaning, normalization, subset selection, etc.) is done on the dataset before a statistical or a machine learning model is constructed:
 
